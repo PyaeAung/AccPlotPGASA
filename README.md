@@ -18,10 +18,3 @@
 - Sa vs Period (0–1 s) + Waveform  
 - **ASCE 7-16 Design Spectrum** နဲ့ overlay (5% damping)  
 
----
-
-
-```bash
-git clone https://github.com/username/earthquake-spectra-tools.git
-cd earthquake-spectra-tools
-pip install -r requirements.txt
